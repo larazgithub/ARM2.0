@@ -17,12 +17,11 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository:
 
-In bash
+```sh
+git clone https://github.com/larazgithub/bmi_calculator.git
 
---> git clone https://github.com/larazgithub/bmi_calculator.git
-
---> cd bmi_calculator
-
+cd bmi_calculator
+```
 ### 2. Install Flutter:
 
 If you haven't already, install Flutter by following the instructions on the official Flutter website.
@@ -35,20 +34,17 @@ If you haven't already, install Flutter by following the instructions on the off
 
 ### 4. Install dependencies:
 
-In bash
-
---> flutter pub get
-
+```sh
+flutter pub get
+```
 ### 5. Run the app:
 
 -> Open Android Studio and select Open an Existing Project.
 -> Navigate to the cloned repository and open the project.
 -> Run the app on an emulator or a connected device by clicking the play button or using the following command:
-
-In bash
-
+```sh
 --> flutter run
-
+```
 ## Usage
 
 1. Open the app on your device or emulator.
@@ -63,12 +59,18 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 -> Fork the repository
 
--> Create a new branch: git checkout -b feature-branch
-
--> Make your changes and commit them: git commit -m 'Add new feature'
-
--> Push to the branch: git push origin feature-branch
-
+-> Create a new branch:
+```sh
+git checkout -b feature-branch
+```
+-> Make your changes and commit them: 
+```sh
+git commit -m 'Add new feature'
+```
+-> Push to the branch: 
+```sh
+git push origin feature-branch
+```
 -> Submit a pull request.
 
 ## Contact
