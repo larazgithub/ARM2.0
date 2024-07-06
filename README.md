@@ -24,7 +24,8 @@ cd bmi_calculator
 ```
 ### 2. Install Flutter:
 
-If you haven't already, install Flutter by following the instructions on the official Flutter website.
+If you haven't already, install Flutter by following the instructions on the official Flutter website: 
+https://docs.flutter.dev/get-started/install
 
 ### 3. Set up Android Studio:
 
